@@ -1,10 +1,11 @@
 *.pyc
 *~
 __pycache__
-cosmostest
+# cosmostest
 db.sqlite3
 /static
 .DS_Store
 .idea*
 pyvenv.cfg
-
+Lib/*
+Scripts/*
